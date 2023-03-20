@@ -18,3 +18,29 @@
 2023-03-21 00:59:08.830 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - NaN
 2023-03-21 00:59:31.726 [main] INFO  org.example.Main - [NATURAL LOG] - 0.0
 2023-03-21 00:59:31.727 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - NaN
+2023-03-21 01:04:57.763 [main] INFO  org.example.Main - [FACTORIAL] - -9.0
+2023-03-21 01:04:57.765 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - NaN
+2023-03-21 01:05:13.033 [main] INFO  org.example.Main - [FACTORIAL] - -0.0
+2023-03-21 01:05:13.033 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
+2023-03-21 01:49:52.567 [main] INFO  org.example.Main - [FACTORIAL] - 4.0
+2023-03-21 01:49:52.569 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 24.0
+2023-03-21 01:49:52.569 [main] INFO  org.example.Main - [FACTORIAL] - 5.0
+2023-03-21 01:49:52.569 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 120.0
+2023-03-21 01:49:52.573 [main] INFO  org.example.Main - [FACTORIAL] - 0.0
+2023-03-21 01:49:52.574 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
+2023-03-21 01:50:18.572 [main] INFO  org.example.Main - [FACTORIAL] - 4.0
+2023-03-21 01:50:18.574 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 24.0
+2023-03-21 01:50:18.574 [main] INFO  org.example.Main - [FACTORIAL] - 5.0
+2023-03-21 01:50:18.574 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 120.0
+2023-03-21 01:50:18.578 [main] INFO  org.example.Main - [FACTORIAL] - 0.0
+2023-03-21 01:50:18.579 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
+2023-03-21 01:50:18.579 [main] INFO  org.example.Main - [FACTORIAL] - 10.0
+2023-03-21 01:50:18.579 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 3628800.0
+2023-03-21 01:50:49.146 [main] INFO  org.example.Main - [FACTORIAL] - 4.0
+2023-03-21 01:50:49.148 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 24.0
+2023-03-21 01:50:49.149 [main] INFO  org.example.Main - [FACTORIAL] - 5.0
+2023-03-21 01:50:49.149 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 120.0
+2023-03-21 01:50:49.154 [main] INFO  org.example.Main - [FACTORIAL] - 0.0
+2023-03-21 01:50:49.155 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
+2023-03-21 01:50:49.155 [main] INFO  org.example.Main - [FACTORIAL] - 10.0
+2023-03-21 01:50:49.155 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 3628800.0
