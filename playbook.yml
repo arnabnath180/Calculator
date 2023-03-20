@@ -7,6 +7,6 @@
         name: docker
         state: started
     - name: pull docker image
-      shell: docker pull arnabxyz/devops
+      shell: docker pull arnabxyz/calculator
     - name: running container
-      shell: docker run -it -d arnabxyz/devops
+      shell: docker run -it -d arnabxyz/calculator

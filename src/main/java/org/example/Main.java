@@ -1,8 +1,5 @@
 package org.example;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-
 import java.util.Scanner;
 
 public class Main {
@@ -19,6 +16,11 @@ public class Main {
                 System.out.print("Enter a number : ");
                 int n=scanner.nextInt();
                 System.out.println("Factorial of "+n+" is : " + calculator.factorial(n));
+            }
+            else if(choice==2){
+                System.out.print("Enter a number : ");
+                double n=scanner.nextDouble();
+                System.out.println("Square root of "+n+" is : " + calculator.squareroot(n));
             }
             else{
                 System.out.println("Exiting....");

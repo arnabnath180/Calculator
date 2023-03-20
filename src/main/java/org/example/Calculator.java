@@ -13,4 +13,10 @@ public class Calculator {
         logger.info("[RESULT - FACTORIAL] - " + res);
         return res;
     }
+    public double squareroot(double n){
+        logger.info("[SQ ROOT] - " + n);
+        double res=Math.sqrt(n);
+        logger.info("[RESULT - SQ ROOT] - " + res);
+        return res;
+    }
 }
