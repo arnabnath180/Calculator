@@ -14,7 +14,7 @@ public class Main {
             choice= scanner.nextInt();
             if(choice==1){
                 System.out.print("Enter a number : ");
-                int n=scanner.nextInt();
+                double n=scanner.nextDouble();
                 System.out.println("Factorial of "+n+" is : " + calculator.factorial(n));
             }
             else if(choice==2){
@@ -29,7 +29,11 @@ public class Main {
                 double p=scanner.nextDouble();
                 System.out.println(n+" raised to the power "+p+" is: " + calculator.power(n,p));
             }
-
+            else if(choice==4){
+                System.out.print("Enter a number : ");
+                double n=scanner.nextDouble();
+                System.out.println("Square root of "+n+" is : " + calculator.log(n));
+            }
             else{
                 System.out.println("Exiting....");
                 break;

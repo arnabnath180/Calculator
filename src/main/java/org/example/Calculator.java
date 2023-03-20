@@ -5,9 +5,9 @@ import org.apache.logging.log4j.Logger;
 
 public class Calculator {
     private static final Logger logger = LogManager.getLogger(Main.class);
-    public int factorial(int n){
+    public double factorial(double n){
         logger.info("[FACTORIAL] - " + n);
-        int res = 1, i;
+        double res = 1, i;
         for (i=2; i<=n; i++)
             res *= i;
         logger.info("[RESULT - FACTORIAL] - " + res);
@@ -23,6 +23,12 @@ public class Calculator {
         logger.info("[POWER - " + n + " RAISED TO] " + p);
         double res = Math.pow(n,p);
         logger.info("[RESULT - POWER] - " + res);
+        return res;
+    }
+    public double log(double n){
+        logger.info("[NATURAL LOG] - " + n);
+        double res=Math.log(n);
+        logger.info("[RESULT - NATURAL LOG] - " + res);
         return res;
     }
 }
