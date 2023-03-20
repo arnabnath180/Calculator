@@ -22,6 +22,14 @@ public class Main {
                 double n=scanner.nextDouble();
                 System.out.println("Square root of "+n+" is : " + calculator.squareroot(n));
             }
+            else if(choice==3){
+                System.out.print("Enter a number : ");
+                double n=scanner.nextDouble();
+                System.out.print("Enter power : ");
+                double p=scanner.nextDouble();
+                System.out.println(n+" raised to the power "+p+" is: " + calculator.power(n,p));
+            }
+
             else{
                 System.out.println("Exiting....");
                 break;

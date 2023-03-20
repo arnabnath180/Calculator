@@ -19,4 +19,10 @@ public class Calculator {
         logger.info("[RESULT - SQ ROOT] - " + res);
         return res;
     }
+    public double power(double n,double p){
+        logger.info("[POWER - " + n + " RAISED TO] " + p);
+        double res = Math.pow(n,p);
+        logger.info("[RESULT - POWER] - " + res);
+        return res;
+    }
 }
