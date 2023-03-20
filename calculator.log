@@ -44,3 +44,149 @@
 2023-03-21 01:50:49.155 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
 2023-03-21 01:50:49.155 [main] INFO  org.example.Main - [FACTORIAL] - 10.0
 2023-03-21 01:50:49.155 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 3628800.0
+2023-03-21 01:55:34.719 [main] INFO  org.example.Main - [FACTORIAL] - 4.0
+2023-03-21 01:55:34.721 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 24.0
+2023-03-21 01:55:34.721 [main] INFO  org.example.Main - [FACTORIAL] - 5.0
+2023-03-21 01:55:34.721 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 120.0
+2023-03-21 01:55:34.722 [main] INFO  org.example.Main - [FACTORIAL] - 0.0
+2023-03-21 01:55:34.723 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
+2023-03-21 01:55:34.723 [main] INFO  org.example.Main - [FACTORIAL] - 10.0
+2023-03-21 01:55:34.723 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 3628800.0
+2023-03-21 01:58:08.205 [main] INFO  org.example.Main - [FACTORIAL] - 4.0
+2023-03-21 01:58:08.208 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 24.0
+2023-03-21 01:58:08.208 [main] INFO  org.example.Main - [FACTORIAL] - 5.0
+2023-03-21 01:58:08.208 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 120.0
+2023-03-21 01:58:08.210 [main] INFO  org.example.Main - [SQ ROOT] - 4.0
+2023-03-21 01:58:08.210 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 2.0
+2023-03-21 01:58:08.210 [main] INFO  org.example.Main - [SQ ROOT] - 1.0
+2023-03-21 01:58:08.210 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 1.0
+2023-03-21 01:58:08.211 [main] INFO  org.example.Main - [SQ ROOT] - 3.0
+2023-03-21 01:58:08.211 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 1.7320508075688772
+2023-03-21 01:58:08.212 [main] INFO  org.example.Main - [SQ ROOT] - 4.0
+2023-03-21 01:58:08.212 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 2.0
+2023-03-21 01:58:08.213 [main] INFO  org.example.Main - [FACTORIAL] - 0.0
+2023-03-21 01:58:08.213 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
+2023-03-21 01:58:08.213 [main] INFO  org.example.Main - [FACTORIAL] - 10.0
+2023-03-21 01:58:08.213 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 3628800.0
+2023-03-21 02:03:33.701 [main] INFO  org.example.Main - [FACTORIAL] - 4.0
+2023-03-21 02:03:33.703 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 24.0
+2023-03-21 02:03:33.703 [main] INFO  org.example.Main - [FACTORIAL] - 5.0
+2023-03-21 02:03:33.703 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 120.0
+2023-03-21 02:03:33.704 [main] INFO  org.example.Main - [SQ ROOT] - 4.0
+2023-03-21 02:03:33.705 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 2.0
+2023-03-21 02:03:33.705 [main] INFO  org.example.Main - [SQ ROOT] - 1.0
+2023-03-21 02:03:33.705 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 1.0
+2023-03-21 02:03:33.705 [main] INFO  org.example.Main - [SQ ROOT] - 3.0
+2023-03-21 02:03:33.706 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 1.7320508075688772
+2023-03-21 02:03:33.706 [main] INFO  org.example.Main - [SQ ROOT] - 4.0
+2023-03-21 02:03:33.706 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 2.0
+2023-03-21 02:03:33.706 [main] INFO  org.example.Main - [NATURAL LOG] - 5.0
+2023-03-21 02:03:33.707 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.6094379124341003
+2023-03-21 02:03:33.713 [main] INFO  org.example.Main - [FACTORIAL] - 0.0
+2023-03-21 02:03:33.713 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
+2023-03-21 02:03:33.713 [main] INFO  org.example.Main - [FACTORIAL] - 10.0
+2023-03-21 02:03:33.713 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 3628800.0
+2023-03-21 02:03:33.719 [main] INFO  org.example.Main - [POWER - 3.0 RAISED TO] 5.0
+2023-03-21 02:03:33.719 [main] INFO  org.example.Main - [RESULT - POWER] - 243.0
+2023-03-21 02:03:33.719 [main] INFO  org.example.Main - [POWER - 4.0 RAISED TO] 2.0
+2023-03-21 02:03:33.719 [main] INFO  org.example.Main - [RESULT - POWER] - 16.0
+2023-03-21 02:03:33.720 [main] INFO  org.example.Main - [POWER - 4.0 RAISED TO] 3.0
+2023-03-21 02:03:33.720 [main] INFO  org.example.Main - [RESULT - POWER] - 64.0
+2023-03-21 02:03:33.720 [main] INFO  org.example.Main - [POWER - 2.0 RAISED TO] 0.0
+2023-03-21 02:03:33.720 [main] INFO  org.example.Main - [RESULT - POWER] - 1.0
+2023-03-21 02:03:33.721 [main] INFO  org.example.Main - [NATURAL LOG] - 3.0
+2023-03-21 02:03:33.721 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.0986122886681098
+2023-03-21 02:03:33.721 [main] INFO  org.example.Main - [NATURAL LOG] - 4.0
+2023-03-21 02:03:33.721 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.3862943611198906
+2023-03-21 02:04:45.212 [main] INFO  org.example.Main - [FACTORIAL] - 4.0
+2023-03-21 02:04:45.214 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 24.0
+2023-03-21 02:04:45.214 [main] INFO  org.example.Main - [FACTORIAL] - 5.0
+2023-03-21 02:04:45.215 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 120.0
+2023-03-21 02:04:45.215 [main] INFO  org.example.Main - [SQ ROOT] - 4.0
+2023-03-21 02:04:45.216 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 2.0
+2023-03-21 02:04:45.216 [main] INFO  org.example.Main - [SQ ROOT] - 1.0
+2023-03-21 02:04:45.216 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 1.0
+2023-03-21 02:04:45.216 [main] INFO  org.example.Main - [SQ ROOT] - 3.0
+2023-03-21 02:04:45.217 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 1.7320508075688772
+2023-03-21 02:04:45.217 [main] INFO  org.example.Main - [SQ ROOT] - 4.0
+2023-03-21 02:04:45.217 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 2.0
+2023-03-21 02:04:45.217 [main] INFO  org.example.Main - [NATURAL LOG] - 5.0
+2023-03-21 02:04:45.218 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.6094379124341003
+2023-03-21 02:04:45.223 [main] INFO  org.example.Main - [FACTORIAL] - 0.0
+2023-03-21 02:04:45.223 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
+2023-03-21 02:04:45.223 [main] INFO  org.example.Main - [FACTORIAL] - 10.0
+2023-03-21 02:04:45.224 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 3628800.0
+2023-03-21 02:04:45.231 [main] INFO  org.example.Main - [POWER - 3.0 RAISED TO] 5.0
+2023-03-21 02:04:45.231 [main] INFO  org.example.Main - [RESULT - POWER] - 243.0
+2023-03-21 02:04:45.231 [main] INFO  org.example.Main - [POWER - 4.0 RAISED TO] 2.0
+2023-03-21 02:04:45.232 [main] INFO  org.example.Main - [RESULT - POWER] - 16.0
+2023-03-21 02:04:45.232 [main] INFO  org.example.Main - [POWER - 4.0 RAISED TO] 3.0
+2023-03-21 02:04:45.232 [main] INFO  org.example.Main - [RESULT - POWER] - 64.0
+2023-03-21 02:04:45.232 [main] INFO  org.example.Main - [POWER - 2.0 RAISED TO] 0.0
+2023-03-21 02:04:45.233 [main] INFO  org.example.Main - [RESULT - POWER] - 1.0
+2023-03-21 02:04:45.233 [main] INFO  org.example.Main - [NATURAL LOG] - 3.0
+2023-03-21 02:04:45.233 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.0986122886681098
+2023-03-21 02:04:45.233 [main] INFO  org.example.Main - [NATURAL LOG] - 4.0
+2023-03-21 02:04:45.234 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.3862943611198906
+2023-03-21 02:05:35.633 [main] INFO  org.example.Main - [FACTORIAL] - 4.0
+2023-03-21 02:05:35.635 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 24.0
+2023-03-21 02:05:35.635 [main] INFO  org.example.Main - [FACTORIAL] - 5.0
+2023-03-21 02:05:35.635 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 120.0
+2023-03-21 02:05:35.636 [main] INFO  org.example.Main - [SQ ROOT] - 4.0
+2023-03-21 02:05:35.636 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 2.0
+2023-03-21 02:05:35.636 [main] INFO  org.example.Main - [SQ ROOT] - 1.0
+2023-03-21 02:05:35.637 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 1.0
+2023-03-21 02:05:35.637 [main] INFO  org.example.Main - [SQ ROOT] - 3.0
+2023-03-21 02:05:35.637 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 1.7320508075688772
+2023-03-21 02:05:35.637 [main] INFO  org.example.Main - [SQ ROOT] - 4.0
+2023-03-21 02:05:35.638 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 2.0
+2023-03-21 02:05:35.638 [main] INFO  org.example.Main - [NATURAL LOG] - 5.0
+2023-03-21 02:05:35.639 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.6094379124341003
+2023-03-21 02:05:35.644 [main] INFO  org.example.Main - [FACTORIAL] - 0.0
+2023-03-21 02:05:35.644 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
+2023-03-21 02:05:35.644 [main] INFO  org.example.Main - [FACTORIAL] - 10.0
+2023-03-21 02:05:35.644 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 3628800.0
+2023-03-21 02:05:35.651 [main] INFO  org.example.Main - [POWER - 3.0 RAISED TO] 5.0
+2023-03-21 02:05:35.652 [main] INFO  org.example.Main - [RESULT - POWER] - 243.0
+2023-03-21 02:05:35.652 [main] INFO  org.example.Main - [POWER - 4.0 RAISED TO] 2.0
+2023-03-21 02:05:35.652 [main] INFO  org.example.Main - [RESULT - POWER] - 16.0
+2023-03-21 02:05:35.653 [main] INFO  org.example.Main - [POWER - 4.0 RAISED TO] 3.0
+2023-03-21 02:05:35.653 [main] INFO  org.example.Main - [RESULT - POWER] - 64.0
+2023-03-21 02:05:35.653 [main] INFO  org.example.Main - [POWER - 2.0 RAISED TO] 0.0
+2023-03-21 02:05:35.654 [main] INFO  org.example.Main - [RESULT - POWER] - 1.0
+2023-03-21 02:05:35.655 [main] INFO  org.example.Main - [NATURAL LOG] - 3.0
+2023-03-21 02:05:35.655 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.0986122886681098
+2023-03-21 02:05:35.655 [main] INFO  org.example.Main - [NATURAL LOG] - 4.0
+2023-03-21 02:05:35.655 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.3862943611198906
+2023-03-21 02:06:37.912 [main] INFO  org.example.Main - [FACTORIAL] - 4.0
+2023-03-21 02:06:37.914 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 24.0
+2023-03-21 02:06:37.914 [main] INFO  org.example.Main - [FACTORIAL] - 5.0
+2023-03-21 02:06:37.914 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 120.0
+2023-03-21 02:06:37.915 [main] INFO  org.example.Main - [SQ ROOT] - 4.0
+2023-03-21 02:06:37.915 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 2.0
+2023-03-21 02:06:37.916 [main] INFO  org.example.Main - [SQ ROOT] - 1.0
+2023-03-21 02:06:37.916 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 1.0
+2023-03-21 02:06:37.916 [main] INFO  org.example.Main - [SQ ROOT] - 3.0
+2023-03-21 02:06:37.916 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 1.7320508075688772
+2023-03-21 02:06:37.916 [main] INFO  org.example.Main - [SQ ROOT] - 4.0
+2023-03-21 02:06:37.916 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - 2.0
+2023-03-21 02:06:37.917 [main] INFO  org.example.Main - [NATURAL LOG] - 5.0
+2023-03-21 02:06:37.918 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.6094379124341003
+2023-03-21 02:06:37.918 [main] INFO  org.example.Main - [NATURAL LOG] - 1.0
+2023-03-21 02:06:37.918 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 0.0
+2023-03-21 02:06:37.919 [main] INFO  org.example.Main - [FACTORIAL] - 0.0
+2023-03-21 02:06:37.919 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 1.0
+2023-03-21 02:06:37.919 [main] INFO  org.example.Main - [FACTORIAL] - 10.0
+2023-03-21 02:06:37.919 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 3628800.0
+2023-03-21 02:06:37.926 [main] INFO  org.example.Main - [POWER - 3.0 RAISED TO] 5.0
+2023-03-21 02:06:37.926 [main] INFO  org.example.Main - [RESULT - POWER] - 243.0
+2023-03-21 02:06:37.926 [main] INFO  org.example.Main - [POWER - 4.0 RAISED TO] 2.0
+2023-03-21 02:06:37.926 [main] INFO  org.example.Main - [RESULT - POWER] - 16.0
+2023-03-21 02:06:37.927 [main] INFO  org.example.Main - [POWER - 4.0 RAISED TO] 3.0
+2023-03-21 02:06:37.927 [main] INFO  org.example.Main - [RESULT - POWER] - 64.0
+2023-03-21 02:06:37.927 [main] INFO  org.example.Main - [POWER - 2.0 RAISED TO] 0.0
+2023-03-21 02:06:37.927 [main] INFO  org.example.Main - [RESULT - POWER] - 1.0
+2023-03-21 02:06:37.928 [main] INFO  org.example.Main - [NATURAL LOG] - 3.0
+2023-03-21 02:06:37.929 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.0986122886681098
+2023-03-21 02:06:37.929 [main] INFO  org.example.Main - [NATURAL LOG] - 4.0
+2023-03-21 02:06:37.929 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - 1.3862943611198906
