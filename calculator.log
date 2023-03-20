@@ -14,3 +14,7 @@
 2023-03-21 00:44:18.334 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 5040.0
 2023-03-21 00:44:40.018 [main] INFO  org.example.Main - [FACTORIAL] - 5.0
 2023-03-21 00:44:40.019 [main] INFO  org.example.Main - [RESULT - FACTORIAL] - 120.0
+2023-03-21 00:59:08.827 [main] INFO  org.example.Main - [SQ ROOT] - -5.0
+2023-03-21 00:59:08.830 [main] INFO  org.example.Main - [RESULT - SQ ROOT] - NaN
+2023-03-21 00:59:31.726 [main] INFO  org.example.Main - [NATURAL LOG] - 0.0
+2023-03-21 00:59:31.727 [main] INFO  org.example.Main - [RESULT - NATURAL LOG] - NaN

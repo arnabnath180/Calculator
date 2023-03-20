@@ -8,8 +8,18 @@ public class Calculator {
     public double factorial(double n){
         logger.info("[FACTORIAL] - " + n);
         double res = 1, i;
-        for (i=2; i<=n; i++)
-            res *= i;
+        try {
+            if (n < 0) {
+                res = Double.NaN;
+                throw new ArithmeticException("Case of NaN 0.0/0.0");
+            } else {
+                for (i = 2; i <= n; i++)
+                    res *= i;
+            }
+        }
+        catch (ArithmeticException error){
+            System.out.println("[EXCEPTION - LOG] - Cannot find factorial of negative numbers " + error.getLocalizedMessage());
+        }
         logger.info("[RESULT - FACTORIAL] - " + res);
         return res;
     }
@@ -50,7 +60,7 @@ public class Calculator {
             }
         }
         catch (ArithmeticException error){
-            System.out.println("[EXCEPTION - LOG] - Cannot find log of negative numbers " + error.getLocalizedMessage());
+            System.out.println("[EXCEPTION - LOG] - Cannot find log of negative numbers or zero " + error.getLocalizedMessage());
         }
         logger.info("[RESULT - NATURAL LOG] - " + res);
         return res;
