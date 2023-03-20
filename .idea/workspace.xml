@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63b05c70-b886-403b-857b-b39d3a5bf270" name="Changes" comment="Added Jenkinsfile for the pipeline script">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-    </list>
+    <list default="true" id="63b05c70-b886-403b-857b-b39d3a5bf270" name="Changes" comment="Added inventory and playbook" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679329496933</updated>
-      <workItem from="1679329498088" duration="1278000" />
+      <workItem from="1679329498088" duration="1585000" />
     </task>
     <task id="LOCAL-00001" summary="Added Jenkinsfile for the pipeline script">
       <created>1679330469836</created>
@@ -61,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679330469836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added inventory and playbook">
+      <created>1679330969634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679330969634</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Jenkinsfile for the pipeline script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Jenkinsfile for the pipeline script" />
+    <MESSAGE value="Added inventory and playbook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added inventory and playbook" />
   </component>
 </project>

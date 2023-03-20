@@ -13,14 +13,14 @@ pipeline {
         }
         stage('Building our image') { /*you can also specify git location */
             steps {
-                sh 'docker build -t arnabxyz/devops:latest .'
+                sh 'docker build -t arnabxyz/Calculator:latest .'
             }
         }
         stage('Pushing image to Dockerhub') { /*you can also specify git location */
             steps{
                 script {
                    docker.withRegistry('', "dockerhub" ) {
-                        sh 'docker push arnabxyz/devops:latest'
+                        sh 'docker push arnabxyz/Calculator:latest'
                     }
                 }
             }
