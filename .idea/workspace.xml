@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63b05c70-b886-403b-857b-b39d3a5bf270" name="Changes" comment="update Jenkinsfile">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="63b05c70-b886-403b-857b-b39d3a5bf270" name="Changes" comment="Updated Dockerfile">
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679329496933</updated>
-      <workItem from="1679329498088" duration="2365000" />
+      <workItem from="1679329498088" duration="2738000" />
     </task>
     <task id="LOCAL-00001" summary="Added Jenkinsfile for the pipeline script">
       <created>1679330469836</created>
@@ -88,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679331423749</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Dockerfile">
+      <created>1679331945133</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679331945133</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated Dockerfile">
+      <created>1679332235717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679332235717</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +114,8 @@
     <MESSAGE value="Added Jenkinsfile for the pipeline script" />
     <MESSAGE value="Added inventory and playbook" />
     <MESSAGE value="update Jenkinsfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Jenkinsfile" />
+    <MESSAGE value="Added Dockerfile" />
+    <MESSAGE value="Updated Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Dockerfile" />
   </component>
 </project>
