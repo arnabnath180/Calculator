@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Clone Git') { /*you can also specify git location */
             steps {
-                git 'https://github.com/arnabnath180/devops.git'
+                git 'https://github.com/arnabnath180/Calculator.git'
             }
         }
         stage('Maven Build') { /*you can also specify git location */
