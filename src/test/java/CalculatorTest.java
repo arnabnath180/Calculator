@@ -32,7 +32,7 @@ public class CalculatorTest {
     }
     @Test
     public void powerTruePositive(){
-        assertEquals("Finding power for True Positive", 63, calculator.power(4,3), DELTA);
+        assertEquals("Finding power for True Positive", 64, calculator.power(4,3), DELTA);
         assertEquals("Finding power for True Positive", 1, calculator.power(2,0), DELTA);
     }
 
