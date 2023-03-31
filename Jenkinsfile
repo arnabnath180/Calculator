@@ -1,22 +1,22 @@
 pipeline {
     agent any
     stages {
-        stage('Clone Git') { /*you can also specify git location */
+        stage('Clone Git') {
             steps {
                 git 'https://github.com/arnabnath180/Calculator.git'
             }
         }
-        stage('Maven Build') { /*you can also specify git location */
+        stage('Maven Build') {
             steps {
                 sh 'mvn clean install'
             }
         }
-        stage('Building our image') { /*you can also specify git location */
+        stage('Building our image') {
             steps {
                 sh 'docker build -t arnabxyz/calculator:latest .'
             }
         }
-        stage('Pushing image to Dockerhub') { /*you can also specify git location */
+        stage('Pushing image to Dockerhub') {
             steps{
                 script {
                    docker.withRegistry('', "dockerhub" ) {
@@ -25,7 +25,7 @@ pipeline {
                 }
             }
         }
-        stage('Ansible Deploy') { /*you can also specify git location */
+        stage('Ansible Deploy') {
             steps {
                 ansiblePlaybook credentialsId: 'ansible', disableHostKeyChecking: true, installation: 'Ansible', inventory: 'inventory', playbook: 'playbook.yml'
             }
